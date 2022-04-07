@@ -5,9 +5,11 @@
 
 /**
 
- * main - prints the phrase "Programming is like building a multilingual puzzle
+ * main - Print a test
 
- * Return: 0 if exited properly, non-zero otherwise
+ *
+
+ * Return: Always 0 (Success)
 
  */
 
