@@ -49,5 +49,4 @@ default:
 break;
 }
 return (day);
-}
-	
+}	

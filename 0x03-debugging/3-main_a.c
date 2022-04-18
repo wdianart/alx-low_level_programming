@@ -7,7 +7,7 @@
  * Return: 0
  */
 
-int main(void)2
+int main(void)
 {
 	 int month;
 	 int day;
