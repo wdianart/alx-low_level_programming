@@ -1,1 +1,1 @@
-first redame in the C language
+first readme in the C language
